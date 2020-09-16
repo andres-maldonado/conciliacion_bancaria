@@ -1,0 +1,872 @@
+<html>
+<head>
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><! border="0" src="imagesEmpresas/pt2.gif" width="7" height="7"></td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><! border="0" src="imagesEmpresas/pt2.gif" width="7" height="7"></td>
+  </tr>
+</table>
+
+
+<head>
+<! href="explo.css" rel="stylesheet" type="text/css"> 
+<style type="text/css" media="print">.hide{display:none}</style>
+<meta http-equiv="Expires" content="0">
+
+<style type="text/css">
+<!--
+
+a:link {
+	font-family: verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+}
+a:visited {
+	font-family: verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+}
+a:hover {
+	font-family: verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #cc0000;
+	color: #000000;
+	font-weight: bold;
+}
+
+#encabezado{
+	/*	border: solid 1px red;*/
+	height: 10px;
+	width: 550px;
+	margin-top: 10px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 10px;
+}
+#encabezado span {
+	float: right;
+	margin:0; padding:0;
+	font: normal normal 9px/100% Verdana, Arial, Helvetica, sans-serif;
+	background: url("css/bitmaps/fondo_pasos.gif") right center no-repeat;
+	height: 25px;
+	width: 50px;
+	_width: 77px;
+	margin-top: 2px;
+	padding-top: 8px;
+	padding-right: 9px;
+	_padding-right: 8px;
+	text-align: right;
+	display:none;
+}
+#encabezado span strong{
+	color: #F1801A;
+	font-size: 9px;
+}
+#encabezado img{
+	float: right;
+/*	border: solid 1px green;*/
+	margin: 0px; padding: 0px;
+}
+#encabezado h1{
+	font: normal bold 14px/100% Verdana, Arial, Helvetica, sans-serif;
+	color: #F1801A;
+	/*border: solid 1px blue;*/
+	margin:0; padding:0;
+	padding-top: 10px;
+}
+#encabezado.rotar span{
+	display: inline;
+}
+#encabezado.rotar img {
+	float:right;
+	margin-right:100px;
+}
+.Estilo3 {
+	font-family: verdana;
+	font-size: 10px;
+	font-weight: bold;
+}
+.Estilo5 {font-size: 10px; font-family: verdana;}
+-->
+</style>
+
+</head>
+<body>
+<table border="0" width="580" cellspacing="1" cellpadding="0">
+  <tr>
+  <td><font class="FontTituloNuevaImagen">Transferencia - Consultar </font>
+  <td align="right" class="c3">&nbsp;</td>
+ </tr> 
+</table>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse;width:580" bordercolor="#ffffff" width="580" id="AutoNumber2" class="tablafondo">
+  <tr>
+  
+   <td width="100%">
+      <table width="580" border="0"  cellpadding="4" cellspacing="1">
+    <tr> 
+		<td class="t1" width="282" >Nombre</td>
+        <td class="t1" width="135" >RUT</td>
+        <td class="t1" width="135" align="left">Fecha - Hora</td>
+  </tr>
+  <tr> 
+		 <td class="c3" width="282">MYS ASESORES JURIDICOS LIMITADA</td>
+     <td class="c3" width="135">76.884.963-3</td>
+     <td class="c3" width="135" align="center">28/07/2020 1:50:07</td>
+  </tr>
+</table>
+ </td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><! border="0" src="imagesEmpresas/pt2.gif" width="7" height="7"><! border="0" src="imagesEmpresas/pt2.gif" width="0" height="6"></td>
+  </tr>
+</table>
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse;width:580" bordercolor="#ffffff" width="580" id="AutoNumber2" class="tablafondo">
+  <tr>
+   <td width="100%">
+      <table width="580" border="0"  cellpadding="4" cellspacing="1">
+   <tr> 
+		<td class="t1">N&deg; Cuenta Destino </td>
+		<td class="t1"><strong>Fecha Inicial </strong></td>
+		<td class="t1"><strong>Fecha Final </strong></td>
+  </tr>
+  <tr> 
+		<td class="c3" width="282">00178737783</td>
+		<td class="c3" width="135">01/06/2020</td>
+		<td class="c3" width="135">28/07/2020</td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>  
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td>&nbsp;</td> 
+ </tr>
+</table>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse;width:580" bordercolor="#ffffff" width="742" id="AutoNumber2" class="">
+<tr>  
+
+
+<td width="738">
+        
+<table width="718" border="0"  cellpadding="4" cellspacing="1">
+ <tr>
+ <td><! border="0" src="imagesEmpresas/Bullet_Cuadrado_NI.gif" width="7" height="7"> <span class="Estilo3"> Transferencias Recibidas </span></td> 
+ 
+ </tr>
+
+
+</table>    
+ </td>
+</tr>
+<tr>
+</tr>
+</table>
+
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse;width:580" bordercolor="#ffffff" width="742" id="AutoNumber2" class="tablafondo">
+  <tr>  
+   <td width="738">
+        
+	  	<table width="731" border="0"  cellpadding="4" cellspacing="1">
+         <tr> 				
+			<td width="13%" class="t1" height="24"  align="center">Fecha</td>			
+			<td width="8%" class="t1" height="24"  align="center">Número de operación </td>
+			<td width="9%" class="t1" height="24" align="center">Monto Transferencia &nbsp;&nbsp;$</td>			
+			<td width="13%" class="t1" height="24" align="center">Banco Origen</td>
+			<td width="12%" class="t1" align="center" >Cuenta Origen</td>
+			<td width="10%" class="t1" align="center" >RUT Origen</td>
+			
+
+         </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">01/06/2020 11:58:50</td>
+				<td class="c3"  align="center">07028130</td>
+                <td class="c3"  align="right">170.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Chequera Electrónica 825-7-301562-9</td>
+                <td class="c3"  align="center">9.416.390-0</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">01/06/2020 10:08:42</td>
+				<td class="c3"  align="center">07050148</td>
+                <td class="c3"  align="right">250.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Cuenta Corriente 000-0-757223-9</td>
+                <td class="c3"  align="center">11.629.345-5</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">02/06/2020 10:56:19</td>
+				<td class="c3"  align="center">07095560</td>
+                <td class="c3"  align="right">90.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Cuenta Corriente 273-0-000456-9</td>
+                <td class="c3"  align="center">13.664.543-9</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">02/06/2020 20:03:07</td>
+				<td class="c3"  align="center">20030735</td>
+                <td class="c3"  align="right">250.000</td>
+                <td class="c3"  align="center">BANCO DE CHILE</td>
+                <td class="c3"  align="center">Cuenta Corriente 029-0-118330-6</td>
+                <td class="c3"  align="center">76.221.531-4</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">03/06/2020 16:47:24</td>
+				<td class="c3"  align="center">07028749</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00011053924</td>
+                <td class="c3"  align="center">11.053.924-K</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">03/06/2020 10:45:08</td>
+				<td class="c3"  align="center">07035439</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00020523675</td>
+                <td class="c3"  align="center">20.523.675-9</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">03/06/2020 11:52:06</td>
+				<td class="c3"  align="center">07085023</td>
+                <td class="c3"  align="right">50.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Chequera Electrónica 527-7-300371-8</td>
+                <td class="c3"  align="center">13.139.558-2</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">04/06/2020 22:56:13</td>
+				<td class="c3"  align="center">07049952</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00014435642</td>
+                <td class="c3"  align="center">14.435.642-K</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">04/06/2020 12:17:31</td>
+				<td class="c3"  align="center">07083640</td>
+                <td class="c3"  align="right">120.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00015171764</td>
+                <td class="c3"  align="center">15.171.764-0</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">04/06/2020 16:32:40</td>
+				<td class="c3"  align="center">07096878</td>
+                <td class="c3"  align="right">81.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00016705216</td>
+                <td class="c3"  align="center">16.705.216-9</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">05/06/2020 06:23:22</td>
+				<td class="c3"  align="center">06232227</td>
+                <td class="c3"  align="right">50.000</td>
+                <td class="c3"  align="center">SCOTIABANK-DESARROL</td>
+                <td class="c3"  align="center">Cuenta Corriente 039-7-000232-9</td>
+                <td class="c3"  align="center">14.252.937-8</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">05/06/2020 20:14:18</td>
+				<td class="c3"  align="center">07060791</td>
+                <td class="c3"  align="right">160.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00013188930</td>
+                <td class="c3"  align="center">13.188.930-5</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">05/06/2020 10:12:35</td>
+				<td class="c3"  align="center">10123533</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCO DE CREDITO E</td>
+                <td class="c3"  align="center">Chequera Electrónica 000-6-724791-1</td>
+                <td class="c3"  align="center">12.435.250-9</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">07/06/2020 17:59:08</td>
+				<td class="c3"  align="center">17590883</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCO FALABELLA</td>
+                <td class="c3"  align="center">Cuenta Corriente 107-1-006556-7</td>
+                <td class="c3"  align="center">15.330.054-2</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">08/06/2020 16:57:26</td>
+				<td class="c3"  align="center">07020696</td>
+                <td class="c3"  align="right">80.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Cuenta Corriente 000-0-706152-8</td>
+                <td class="c3"  align="center">8.864.271-6</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">08/06/2020 18:45:29</td>
+				<td class="c3"  align="center">07084075</td>
+                <td class="c3"  align="right">50.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00012832015</td>
+                <td class="c3"  align="center">12.832.015-6</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">08/06/2020 17:46:21</td>
+				<td class="c3"  align="center">17462195</td>
+                <td class="c3"  align="right">250.000</td>
+                <td class="c3"  align="center">BANCO SANTANDER</td>
+                <td class="c3"  align="center">Cuenta Corriente 000-6-417623-4</td>
+                <td class="c3"  align="center">15.382.577-7</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">13/06/2020 09:37:47</td>
+				<td class="c3"  align="center">07039231</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00016872038</td>
+                <td class="c3"  align="center">16.872.038-6</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">14/06/2020 16:33:25</td>
+				<td class="c3"  align="center">16332519</td>
+                <td class="c3"  align="right">30.000</td>
+                <td class="c3"  align="center">BANCO DE CHILE</td>
+                <td class="c3"  align="center">Cuenta Corriente 001-1-831906-3</td>
+                <td class="c3"  align="center">20.089.340-9</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">15/06/2020 14:52:39</td>
+				<td class="c3"  align="center">07098752</td>
+                <td class="c3"  align="right">80.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00005290746</td>
+                <td class="c3"  align="center">5.290.746-2</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">16/06/2020 08:09:00</td>
+				<td class="c3"  align="center">07021089</td>
+                <td class="c3"  align="right">80.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Chequera Electrónica 629-7-218006-3</td>
+                <td class="c3"  align="center">10.812.910-7</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">16/06/2020 09:38:22</td>
+				<td class="c3"  align="center">07091390</td>
+                <td class="c3"  align="right">120.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00012343930</td>
+                <td class="c3"  align="center">12.343.930-9</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">17/06/2020 21:09:46</td>
+				<td class="c3"  align="center">07045200</td>
+                <td class="c3"  align="right">70.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00017413136</td>
+                <td class="c3"  align="center">17.413.136-8</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">18/06/2020 21:04:34</td>
+				<td class="c3"  align="center">07027369</td>
+                <td class="c3"  align="right">150.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00016566715</td>
+                <td class="c3"  align="center">16.566.715-8</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">20/06/2020 18:13:34</td>
+				<td class="c3"  align="center">07047387</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00009530798</td>
+                <td class="c3"  align="center">9.530.798-1</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">22/06/2020 12:24:13</td>
+				<td class="c3"  align="center">07028781</td>
+                <td class="c3"  align="right">45.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00015982331</td>
+                <td class="c3"  align="center">15.982.331-8</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">25/06/2020 08:50:40</td>
+				<td class="c3"  align="center">08504047</td>
+                <td class="c3"  align="right">52.000</td>
+                <td class="c3"  align="center">BANCO FALABELLA</td>
+                <td class="c3"  align="center">Cuenta Corriente 150-6-005683-4</td>
+                <td class="c3"  align="center">9.218.813-2</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">28/06/2020 14:07:16</td>
+				<td class="c3"  align="center">14071601</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">COOPEUCH</td>
+                <td class="c3"  align="center">Chequera Electrónica 002-0-062897-7</td>
+                <td class="c3"  align="center">16.201.512-5</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">29/06/2020 18:31:38</td>
+				<td class="c3"  align="center">07034812</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00013789479</td>
+                <td class="c3"  align="center">13.789.479-3</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">30/06/2020 17:09:27</td>
+				<td class="c3"  align="center">07047862</td>
+                <td class="c3"  align="right">170.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Chequera Electrónica 825-7-301562-9</td>
+                <td class="c3"  align="center">9.416.390-0</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">30/06/2020 11:03:45</td>
+				<td class="c3"  align="center">11034503</td>
+                <td class="c3"  align="right">62.500</td>
+                <td class="c3"  align="center">BANCO DE CHILE</td>
+                <td class="c3"  align="center">Cuenta Corriente 001-1-831906-3</td>
+                <td class="c3"  align="center">20.089.340-9</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">01/07/2020 15:16:05</td>
+				<td class="c3"  align="center">07042110</td>
+                <td class="c3"  align="right">80.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00015043022</td>
+                <td class="c3"  align="center">15.043.022-4</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">01/07/2020 16:37:00</td>
+				<td class="c3"  align="center">16370015</td>
+                <td class="c3"  align="right">400.000</td>
+                <td class="c3"  align="center">BANCO SECURITY</td>
+                <td class="c3"  align="center">Cuenta Corriente 009-1-759730-0</td>
+                <td class="c3"  align="center">76.699.832-1</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">01/07/2020 19:31:10</td>
+				<td class="c3"  align="center">19311096</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCO SANTANDER</td>
+                <td class="c3"  align="center">Cuenta Corriente 000-6-921083-0</td>
+                <td class="c3"  align="center">18.963.823-K</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">02/07/2020 10:38:04</td>
+				<td class="c3"  align="center">07078897</td>
+                <td class="c3"  align="right">60.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00025463631</td>
+                <td class="c3"  align="center">25.463.631-2</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">03/07/2020 14:23:05</td>
+				<td class="c3"  align="center">07012189</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00014435642</td>
+                <td class="c3"  align="center">14.435.642-K</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">03/07/2020 20:04:44</td>
+				<td class="c3"  align="center">20044461</td>
+                <td class="c3"  align="right">80.000</td>
+                <td class="c3"  align="center">BANCO DE CREDITO E</td>
+                <td class="c3"  align="center">Chequera Electrónica 000-6-724791-1</td>
+                <td class="c3"  align="center">12.435.250-9</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">06/07/2020 14:56:13</td>
+				<td class="c3"  align="center">07030634</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00011053924</td>
+                <td class="c3"  align="center">11.053.924-K</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">06/07/2020 17:16:27</td>
+				<td class="c3"  align="center">17162777</td>
+                <td class="c3"  align="right">250.000</td>
+                <td class="c3"  align="center">BANCO SANTANDER</td>
+                <td class="c3"  align="center">Cuenta Corriente 000-6-417623-4</td>
+                <td class="c3"  align="center">15.382.577-7</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">07/07/2020 04:28:31</td>
+				<td class="c3"  align="center">04283162</td>
+                <td class="c3"  align="right">50.000</td>
+                <td class="c3"  align="center">SCOTIABANK-DESARROL</td>
+                <td class="c3"  align="center">Cuenta Corriente 039-7-000232-9</td>
+                <td class="c3"  align="center">14.252.937-8</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">07/07/2020 16:13:39</td>
+				<td class="c3"  align="center">07058147</td>
+                <td class="c3"  align="right">80.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Cuenta Corriente 000-0-706152-8</td>
+                <td class="c3"  align="center">8.864.271-6</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">10/07/2020 12:21:18</td>
+				<td class="c3"  align="center">07004249</td>
+                <td class="c3"  align="right">50.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00015692103</td>
+                <td class="c3"  align="center">15.692.103-3</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">10/07/2020 22:34:47</td>
+				<td class="c3"  align="center">07049108</td>
+                <td class="c3"  align="right">200.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Cuenta Corriente 129-0-003750-1</td>
+                <td class="c3"  align="center">17.714.106-2</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">11/07/2020 20:02:59</td>
+				<td class="c3"  align="center">07045785</td>
+                <td class="c3"  align="right">160.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00013188930</td>
+                <td class="c3"  align="center">13.188.930-5</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">13/07/2020 20:28:15</td>
+				<td class="c3"  align="center">07023834</td>
+                <td class="c3"  align="right">50.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00005290746</td>
+                <td class="c3"  align="center">5.290.746-2</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">13/07/2020 20:13:23</td>
+				<td class="c3"  align="center">07092711</td>
+                <td class="c3"  align="right">50.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00012832015</td>
+                <td class="c3"  align="center">12.832.015-6</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">14/07/2020 13:49:30</td>
+				<td class="c3"  align="center">07062965</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Cuenta Corriente 000-0-706152-8</td>
+                <td class="c3"  align="center">8.864.271-6</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">14/07/2020 17:17:22</td>
+				<td class="c3"  align="center">07083780</td>
+                <td class="c3"  align="right">200.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Chequera Electrónica 547-7-029781-1</td>
+                <td class="c3"  align="center">16.872.038-6</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">16/07/2020 12:49:09</td>
+				<td class="c3"  align="center">07029060</td>
+                <td class="c3"  align="right">120.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00012343930</td>
+                <td class="c3"  align="center">12.343.930-9</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">16/07/2020 12:13:33</td>
+				<td class="c3"  align="center">07049210</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00009530798</td>
+                <td class="c3"  align="center">9.530.798-1</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">16/07/2020 20:29:47</td>
+				<td class="c3"  align="center">07060507</td>
+                <td class="c3"  align="right">180.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00015812161</td>
+                <td class="c3"  align="center">15.812.161-1</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">18/07/2020 12:47:07</td>
+				<td class="c3"  align="center">07080160</td>
+                <td class="c3"  align="right">81.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00016705216</td>
+                <td class="c3"  align="center">16.705.216-9</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">19/07/2020 20:11:54</td>
+				<td class="c3"  align="center">07047571</td>
+                <td class="c3"  align="right">70.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00017413136</td>
+                <td class="c3"  align="center">17.413.136-8</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">20/07/2020 12:59:01</td>
+				<td class="c3"  align="center">12590131</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCO SANTANDER</td>
+                <td class="c3"  align="center">Cuenta de Ahorro 000000007000324951</td>
+                <td class="c3"  align="center">13.961.801-7</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">21/07/2020 14:38:20</td>
+				<td class="c3"  align="center">07035512</td>
+                <td class="c3"  align="right">200.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Chequera Electrónica 261-7-005717-1</td>
+                <td class="c3"  align="center">76.363.044-7</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">23/07/2020 22:10:46</td>
+				<td class="c3"  align="center">07043802</td>
+                <td class="c3"  align="right">80.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00005290746</td>
+                <td class="c3"  align="center">5.290.746-2</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">24/07/2020 09:49:19</td>
+				<td class="c3"  align="center">07007586</td>
+                <td class="c3"  align="right">80.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00015982331</td>
+                <td class="c3"  align="center">15.982.331-8</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">24/07/2020 11:16:33</td>
+				<td class="c3"  align="center">07080693</td>
+                <td class="c3"  align="right">100.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Chequera Electrónica 355-7-303784-5</td>
+                <td class="c3"  align="center">15.814.500-6</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">24/07/2020 15:58:46</td>
+				<td class="c3"  align="center">07082212</td>
+                <td class="c3"  align="right">80.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">Chequera Electrónica 629-7-218006-3</td>
+                <td class="c3"  align="center">10.812.910-7</td>
+               
+              </tr>
+  			 
+			 <! type="hidden" name="val" value="Chequera Electrónica 001-7-873778-3">
+              <tr> 
+                <td class="c3"  align="center">27/07/2020 23:00:31</td>
+				<td class="c3"  align="center">07077711</td>
+                <td class="c3"  align="right">50.000</td>
+                <td class="c3"  align="center">BANCOESTADO</td>
+                <td class="c3"  align="center">CuentaRUT 00013139558</td>
+                <td class="c3"  align="center">13.139.558-2</td>
+               
+              </tr>
+  			 
+      </table>    
+ </td>
+</tr>
+</table>
+
+
+
+
+<br>
+
+
+ <br>
+
+<font color="red">(*) Si los montos y/o fechas no aparecen en el formato correcto, por favor verifique la configuración regional de su equipo.</font></body>
+</html>
